@@ -461,7 +461,7 @@ text-align: left;
 }
 @media screen and (max-width :576px){
     .navbar {
-        width: 25%;
+        width: 100%;
         
     }
     .awal{
